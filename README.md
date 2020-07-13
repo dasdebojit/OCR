@@ -10,5 +10,5 @@ Tools/Modules Involved:
  
 An examplar view of the Newspaper's first page in binarized form is provided below:
 
-<img src = '/
+<img src = "./Images/Faces.png" width = "400" height = "800"/>
 
