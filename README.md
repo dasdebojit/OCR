@@ -10,5 +10,15 @@ Tools/Modules Involved:
  
 An examplar view of the Newspaper's first page in binarized form is provided below:
 
-<img src = "./Images/Faces.png" width = "400" height = "800"/>
+<img src = "./Images/binarized_image.png" width = "500" align = "center"/>
+
+Faces in the newspaper is recognized via haarcascade_frontalface_default.xml file whose github link is: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+The faces are recognized as shown in the image:
+
+<img src = "./Images/Faces.png" width = "500" align = "center"/>
+
+Sample result when an user searches for "Christopher"
+
+<img src = "./Images/Sample_result.png" align = "center"/>
 
