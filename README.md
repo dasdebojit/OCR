@@ -3,11 +3,13 @@
 
 The main goal is to read a newspaper and recognize faces and texts from each pages and display appropriate results when user searches for any keyword in the paper.
 
-Tools/Modules Involved:
-  i.   PILLOW for Image Processing
-  ii.  OpenCV for Image Processing
-  iii. Pytesseract for OCR (Optical Character Recognition)
- 
+<h3>Tools/Modules Involved:</h3>
+<ul>
+  <li>  PILLOW for Image Processing </li>
+  <li>  OpenCV for Image Processing </li>
+  <li> Pytesseract for OCR (Optical Character Recognition) </li>
+</ul> 
+
 An examplar view of the Newspaper's first page in binarized form is provided below:
 
 <img src = "./Images/binarized_image.png" width = "500" align = "center"/>
