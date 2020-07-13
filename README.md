@@ -22,3 +22,4 @@ Sample result when an user searches for "Christopher"
 
 <img src = "./Images/Sample_result.png" align = "center"/>
 
+You can see that it renders all the detected faces from first page of the paper, since it successfully finds the keyword in the newspaper text.
