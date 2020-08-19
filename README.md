@@ -15,7 +15,7 @@ The main goal is to read a newspaper and recognize faces and texts from each pag
 
 <img src = "./Images/binarized_image.png" width = "500" align = "center"/>
 
-<li> Faces in the newspaper is recognized via haarcascade_frontalface_default.xml file whose github link is: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml <li>
+<li> Faces in the newspaper is recognized via haarcascade_frontalface_default.xml file whose github link is: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml </li>
 
 <li> The faces are recognized as shown in the image: </li>
 
